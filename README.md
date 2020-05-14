@@ -19,4 +19,5 @@ npm install firebase-tools --no-save # I have purposefully not installed globall
 ## Cloudstore
 
 ## Authentication
+* https://github.com/firebase/firebaseui-web-react
 * https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/
