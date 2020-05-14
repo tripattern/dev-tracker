@@ -12,6 +12,9 @@ npm install firebase-tools --no-save # I have purposefully not installed globall
 ## Hosting
 * https://dev-tracker.tripattern.com
 * https://dev-tracker-c1ae9.web.app/
+### References
+* https://www.pawangaria.com/post/map-custom-domain-with-godaddy-firebase/
+* Note that I did not put the whole domain in the A record only the subdomain part (dev-tracker)
 
 ## Cloudstore
 
