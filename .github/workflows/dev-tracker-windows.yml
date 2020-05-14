@@ -1,4 +1,4 @@
-name: dev-tracker-linux
+name: dev-tracker-windows
 
 on: [push]
 
